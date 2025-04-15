@@ -39,6 +39,7 @@ The notebook includes:
 - Seaborn
 - Matplotlib
 - Jupyter Notebook
+- Numpy
 
 ## 📁 Files
 
