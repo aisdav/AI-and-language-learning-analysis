@@ -45,7 +45,6 @@ The notebook includes:
 
 - `AI_and_language_learning_analysis.ipynb` — main notebook with analysis
 - `AILL.csv` — survey dataset
-- PNG files for each visualization (optional if exported separately)
 
 ## 👨‍🎓 Author
 
